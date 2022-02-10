@@ -6,4 +6,4 @@ Manhattan_function.R contains the function that was adapted from the Abecasis la
 
 venndiagram.R requires a text file that contains columns of significant markers. Columns must be separated by data set and analysis, ie. 16020_fst, 16020_dapc, 3052_fst, 3052_dapc, 1132_fst, 1132_dapc. 
 
-The marker_depth.R file uses .idepth files, created by using the --site-mean-depth command in VCFTools, for each VCF file.
+The marker_depth.R file uses .idepth files, created by using the --site-mean-depth command in VCFtools, for each VCF file.
