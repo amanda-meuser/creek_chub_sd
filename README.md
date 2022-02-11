@@ -7,3 +7,7 @@ Manhattan_function.R contains the function that was adapted from the Abecasis la
 venndiagram.R requires FST_DAPC_outliers.txt, which is a tab-delimited file that contains columns of significant markers. Columns must be separated by data set and analysis, ie. fst_16020, dapc_dapc, etc. 
 
 The marker_depth.R file uses .idepth files, created by using the --site-mean-depth command in VCFtools, for each VCF file.
+
+dapc.R takes VCF files to calculate Discriminant analysis of principal components (DAPC).
+
+The FST_GEMMA_plots.R and FST_plots_outliers.R files take the .assoc.txt output files from GEMMA and the .weir.fst files from FST calculation as input. 
