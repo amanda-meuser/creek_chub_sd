@@ -1,0 +1,129 @@
+fst_1132	dapc_1132	fst_16020	dapc_16020	fst_3052	dapc_3052
+Sc8LyPk_34;HRSCAF=465_40050680	Sc8LyPk_263;HRSCAF=963_28085016	Contig_9475_65	Contig_115_20	Contig_210932_23	Contig_33_50
+Sc8LyPk_435;HRSCAF=1226_90629	Sc8LyPk_34;HRSCAF=465_395307	Contig_2379_60	Contig_120_33	Contig_15105_13	Contig_120_33
+Sc8LyPk_73;HRSCAF=584_12630747	Sc8LyPk_435;HRSCAF=1226_90629	Contig_6780_36	Contig_478_71	Contig_53060_7	Contig_675_33
+Sc8LyPk_61;HRSCAF=550_12920948	Sc8LyPk_109;HRSCAF=664_97364	Contig_22701_14	Contig_1404_72	Contig_51870_43	Contig_818_24
+Sc8LyPk_242;HRSCAF=929_26893734	Sc8LyPk_563;HRSCAF=1405_47715630	Contig_108237_18	Contig_2092_21	Contig_229096_60	Contig_1416_11
+Sc8LyPk_1;HRSCAF=92_32963657		Contig_57263_49	Contig_2353_11	Contig_81703_71	Contig_2353_11
+Sc8LyPk_104;HRSCAF=653_11934843		Contig_285649_37	Contig_2379_60	Contig_177920_43	Contig_2798_36
+Sc8LyPk_563;HRSCAF=1405_28957066		Contig_19123_89	Contig_2469_56	Contig_925_37	Contig_8395_18
+Sc8LyPk_437;HRSCAF=1229_20951176		Contig_41076_9	Contig_2798_36	Contig_872_36	Contig_10562_79
+Sc8LyPk_60;HRSCAF=549_525072		Contig_195972_73	Contig_3039_88	Contig_72982_30	Contig_12141_15
+Sc8LyPk_6;HRSCAF=195_44016691		Contig_118170_17	Contig_3047_60	Contig_195338_19	Contig_16149_12
+Sc8LyPk_24;HRSCAF=408_46718667		Contig_140580_9	Contig_3704_13	Contig_213256_22	Contig_25564_18
+Sc8LyPk_143;HRSCAF=732_20143718		Contig_21155_27	Contig_4972_46	Contig_24517_21	Contig_32341_29
+		Contig_192263_26	Contig_5041_10	Contig_207509_31	Contig_33556_72
+		Contig_10447_43	Contig_5392_42	Contig_2780_12	Contig_50067_10
+		Contig_585942_12	Contig_5646_77	Contig_10400_27	Contig_53720_11
+		Contig_54851_28	Contig_5756_25	Contig_79056_28	Contig_55226_40
+		Contig_159819_54	Contig_8317_8	Contig_32341_29	Contig_64249_45
+		Contig_362850_39	Contig_8395_18	Contig_531900_17	Contig_114097_54
+		Contig_395850_31	Contig_9514_7	Contig_32200_28	Contig_125453_24
+		Contig_150632_21	Contig_11040_79		Contig_140570_7
+		Contig_59960_26	Contig_11477_20		Contig_170538_12
+		Contig_248579_9	Contig_13734_12		Contig_177471_45
+		Contig_49904_48	Contig_15667_63		Contig_268257_16
+		Contig_487385_52	Contig_18257_62		Contig_275757_85
+		Contig_212995_73	Contig_19106_33		Contig_441602_17
+		Contig_8139_40	Contig_19131_17		Contig_464047_47
+		Contig_206517_13	Contig_20128_52		
+		Contig_14051_7	Contig_20416_25		
+		Contig_298494_13	Contig_22854_27		
+		Contig_132456_54	Contig_22970_16		
+		Contig_333618_37	Contig_24784_17		
+		Contig_5218_14	Contig_25509_62		
+		Contig_48591_16	Contig_25564_18		
+		Contig_14160_50	Contig_31870_18		
+		Contig_93398_86	Contig_32488_45		
+		Contig_14137_9	Contig_33558_9		
+		Contig_12139_17	Contig_35194_62		
+		Contig_382702_65	Contig_37015_55		
+		Contig_491428_78	Contig_39838_22		
+		Contig_271028_80	Contig_40842_70		
+		Contig_524334_37	Contig_41608_16		
+		Contig_39838_22	Contig_42055_90		
+		Contig_30075_55	Contig_43498_21		
+		Contig_515581_29	Contig_45034_75		
+		Contig_34385_40	Contig_46617_25		
+		Contig_50911_23	Contig_47651_41		
+		Contig_6555_11	Contig_50911_23		
+		Contig_326592_9	Contig_51023_7		
+		Contig_91120_9	Contig_51026_9		
+		Contig_149385_74	Contig_51549_25		
+		Contig_494485_10	Contig_52145_29		
+		Contig_352_10	Contig_53194_33		
+		Contig_89220_11	Contig_54548_31		
+		Contig_208977_8	Contig_55226_40		
+		Contig_159314_65	Contig_56211_23		
+		Contig_185375_77	Contig_59083_21		
+		Contig_19723_23	Contig_60617_80		
+		Contig_1718_35	Contig_64045_30		
+		Contig_290310_50	Contig_64850_64		
+		Contig_118641_52	Contig_66430_50		
+		Contig_162862_33	Contig_68195_46		
+		Contig_213462_14	Contig_72499_10		
+		Contig_140872_83	Contig_74184_12		
+		Contig_182221_18	Contig_74382_30		
+		Contig_480832_71	Contig_86839_22		
+		Contig_319529_89	Contig_91120_9		
+		Contig_334912_50	Contig_105003_67		
+		Contig_127570_33	Contig_108232_78		
+		Contig_266850_40	Contig_110000_31		
+		Contig_110783_51	Contig_110245_87		
+		Contig_166344_65	Contig_111891_14		
+		Contig_100325_55	Contig_115631_7		
+		Contig_56445_65	Contig_118127_7		
+		Contig_165375_16	Contig_118558_30		
+		Contig_22970_16	Contig_125453_24		
+		Contig_25479_66	Contig_132752_11		
+		Contig_55599_34	Contig_134772_31		
+		Contig_10039_42	Contig_136452_9		
+		Contig_56726_27	Contig_140580_9		
+		Contig_2465_42	Contig_140872_83		
+		Contig_298908_59	Contig_151504_48		
+		Contig_108587_36	Contig_166901_56		
+		Contig_221769_16	Contig_170057_49		
+		Contig_1293_11	Contig_177471_45		
+		Contig_392341_56	Contig_179950_35		
+		Contig_30245_67	Contig_192263_26		
+		Contig_541640_20	Contig_193589_26		
+		Contig_558632_25	Contig_195427_19		
+		Contig_312503_9	Contig_195972_73		
+		Contig_509833_9	Contig_203880_28		
+		Contig_58825_48	Contig_215309_31		
+		Contig_24007_7	Contig_220390_58		
+		Contig_137435_26	Contig_226971_82		
+		Contig_22854_27	Contig_249789_9		
+		Contig_193346_52	Contig_265244_61		
+		Contig_5041_10	Contig_268257_16		
+			Contig_270928_89		
+			Contig_295619_43		
+			Contig_302387_19		
+			Contig_316214_32		
+			Contig_333575_81		
+			Contig_334912_50		
+			Contig_341782_39		
+			Contig_348032_41		
+			Contig_366944_44		
+			Contig_369340_44		
+			Contig_376340_23		
+			Contig_395850_31		
+			Contig_396570_53		
+			Contig_403388_49		
+			Contig_407138_27		
+			Contig_417638_23		
+			Contig_427736_51		
+			Contig_443933_26		
+			Contig_449214_18		
+			Contig_464047_47		
+			Contig_475050_70		
+			Contig_477612_29		
+			Contig_480832_71		
+			Contig_485949_77		
+			Contig_487385_52		
+			Contig_503194_25		
+			Contig_524334_37		
+			Contig_537569_44		
+			Contig_550447_15		
+			Contig_569171_59		
+			Contig_585942_12		
