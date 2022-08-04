@@ -1,4 +1,4 @@
-#histogram of depth individual, across all markers, for each vcf file
+#histogram of depth per individual, across all markers, for each vcf file
 
 #load color palette
 library(RColorBrewer)
